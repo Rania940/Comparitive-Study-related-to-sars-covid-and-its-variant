@@ -1,0 +1,369 @@
+Aligned consensus sequences length: 29796
+Number of dissimilar regions: 73
+
+Regions:
+	start location: 0
+	covid19:  ----
+	omicron:  TTGT
+
+
+	start location: 619
+	covid19:  T
+	omicron:  G
+
+
+	start location: 2739
+	covid19:  C
+	omicron:  T
+
+
+	start location: 4133
+	covid19:  G
+	omicron:  A
+
+
+	start location: 4270
+	covid19:  C
+	omicron:  T
+
+
+	start location: 4349
+	covid19:  CTTGCACATGCAGAAGAAACACGCAAATTAATGCCTGTCTGTGTGGAAACTAAAGCCATAGTTTCAACTATACAGCGTAAATATAAGGGTATTAAAATACAAGAGGGTGTGGTTGATTATGGTGCTAGATTTTACTTTTACACCAGTAAAACAACTGTAGCGTCACTTATCAACACACTTAACGATCTAAATGAAACTCTTGTTACAATGCCACTTGGCTATGTAACA
+	omicron:  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+
+
+	start location: 9293
+	covid19:  C
+	omicron:  T
+
+
+	start location: 9373
+	covid19:  A
+	omicron:  G
+
+
+	start location: 9483
+	covid19:  C
+	omicron:  T
+
+
+	start location: 9815
+	covid19:  C
+	omicron:  T
+
+
+	start location: 9978
+	covid19:  C
+	omicron:  T
+
+
+	start location: 10147
+	covid19:  C
+	omicron:  T
+
+
+	start location: 10396
+	covid19:  G
+	omicron:  A
+
+
+	start location: 10398
+	covid19:  C
+	omicron:  A
+
+
+	start location: 11237
+	covid19:  TCTGGTTTT
+	omicron:  ---------
+
+
+	start location: 12829
+	covid19:  C
+	omicron:  T
+
+
+	start location: 15663
+	covid19:  C
+	omicron:  T
+
+
+	start location: 17359
+	covid19:  C
+	omicron:  T
+
+
+	start location: 18112
+	covid19:  A
+	omicron:  G
+
+
+	start location: 19904
+	covid19:  C
+	omicron:  T
+
+
+	start location: 20004
+	covid19:  A
+	omicron:  G
+
+
+	start location: 21567
+	covid19:  C
+	omicron:  T
+
+
+	start location: 21582
+	covid19:  TACCCCCTG
+	omicron:  ---------
+
+
+	start location: 21936
+	covid19:  G
+	omicron:  A
+
+
+	start location: 22149
+	covid19:  T
+	omicron:  G
+
+
+	start location: 22527
+	covid19:  G
+	omicron:  A
+
+
+	start location: 22585
+	covid19:  CAGCAACTGTGTTGCTGATTATTCTGTCCTATATAATTCCGCATCATTTTCCACTTTTAAGTGTTATGGAGTGTCTCCTACTAAATTAAATGATCTCTGCTTTACTAATGTCTATGCA
+	omicron:  NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+
+
+	start location: 22724
+	covid19:  G
+	omicron:  A
+
+
+	start location: 22735
+	covid19:  A
+	omicron:  C
+
+
+	start location: 22762
+	covid19:  G
+	omicron:  T
+
+
+	start location: 22831
+	covid19:  T
+	omicron:  G
+
+
+	start location: 22941
+	covid19:  G
+	omicron:  A
+
+
+	start location: 22944
+	covid19:  C
+	omicron:  A
+
+
+	start location: 22962
+	covid19:  A
+	omicron:  C
+
+
+	start location: 22989
+	covid19:  A
+	omicron:  G
+
+
+	start location: 23004
+	covid19:  A
+	omicron:  G
+
+
+	start location: 23012
+	covid19:  A
+	omicron:  T
+
+
+	start location: 23024
+	covid19:  T
+	omicron:  C
+
+
+	start location: 23474
+	covid19:  C
+	omicron:  T
+
+
+	start location: 23548
+	covid19:  T
+	omicron:  G
+
+
+	start location: 23553
+	covid19:  C
+	omicron:  A
+
+
+	start location: 23803
+	covid19:  C
+	omicron:  A
+
+
+	start location: 23897
+	covid19:  G
+	omicron:  T
+
+
+	start location: 24373
+	covid19:  A
+	omicron:  T
+
+
+	start location: 24418
+	covid19:  T
+	omicron:  A
+
+
+	start location: 24949
+	covid19:  C
+	omicron:  T
+
+
+	start location: 25533
+	covid19:  C
+	omicron:  T
+
+
+	start location: 26009
+	covid19:  C
+	omicron:  T
+
+
+	start location: 26219
+	covid19:  C
+	omicron:  T
+
+
+	start location: 26526
+	covid19:  C
+	omicron:  G
+
+
+	start location: 26658
+	covid19:  G
+	omicron:  A
+
+
+	start location: 26807
+	covid19:  C
+	omicron:  T
+
+
+	start location: 27208
+	covid19:  A
+	omicron:  C
+
+
+	start location: 27331
+	covid19:  GAT
+	omicron:  CTC
+
+
+	start location: 27756
+	covid19:  C
+	omicron:  T
+
+
+	start location: 28220
+	covid19:  A
+	omicron:  T
+
+
+	start location: 28260
+	covid19:  C
+	omicron:  T
+
+
+	start location: 28311
+	covid19:  GAGAACGCA
+	omicron:  ---------
+
+
+	start location: 29459
+	covid19:  A
+	omicron:  C
+
+
+	start location: 29682
+	covid19:  ----------
+	omicron:  CTACAGTGAA
+
+
+	start location: 29693
+	covid19:  G
+	omicron:  A
+
+
+	start location: 29695
+	covid19:  G
+	omicron:  T
+
+
+	start location: 29698
+	covid19:  C
+	omicron:  T
+
+
+	start location: 29700
+	covid19:  C
+	omicron:  G
+
+
+	start location: 29702
+	covid19:  CG
+	omicron:  GA
+
+
+	start location: 29707
+	covid19:  -------
+	omicron:  CTGCCTA
+
+
+	start location: 29716
+	covid19:  C
+	omicron:  T
+
+
+	start location: 29718
+	covid19:  ATC
+	omicron:  GAA
+
+
+	start location: 29723
+	covid19:  --------
+	omicron:  GCCCTAAT
+
+
+	start location: 29736
+	covid19:  C
+	omicron:  A
+
+
+	start location: 29738
+	covid19:  G
+	omicron:  A
+
+
+	start location: 29740
+	covid19:  G
+	omicron:  T
+
+
+	start location: 29743
+	covid19:  -----------------------------------------------------
+	omicron:  TTTTAGTAGTGCTATCCNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+
+
